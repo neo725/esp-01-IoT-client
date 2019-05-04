@@ -1,5 +1,7 @@
 #include <Arduino.h>
 #include <ESP8266WiFi.h>
+#include <AES.h>
+#include <string.h>
 
 #include "main.h"
 #include "SocketIOClient.h"
